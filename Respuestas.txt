@@ -1,0 +1,34 @@
+¿Cuál es el punto más débil de PGP?
+todos los usuarios deben proteger sus claves privadas. 
+Si una persona pierde o revela accidentalmente esta información, 
+existe la posibilidad de que se produzcan brechas de seguridad y de que la información quede expuesta.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+es conveniente cuando se necesitan velocidades de encriptación y desencriptación altas, 
+como en aplicaciones que manejan grandes cantidades de datos encriptados.
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+En su forma más simple, es un proceso que estandariza las mejores prácticas de seguridad en una
+variedad de productos y/o aplicaciones.
+
+Planificación
+La fase de planificación incluye normalmente tareas como análisis de costos y beneficios, 
+programación, estimación de recursos y asignación.
+
+Diseño
+En la fase de diseño, los ingenieros de software analizan los requisitos e identifican las 
+mejores soluciones para crear el software.
+
+Implementación
+En la fase de implementación, el equipo de desarrollo codifica el producto
+
+Pruebas
+El equipo de desarrollo combina las pruebas automáticas y manuales para 
+comprobar si el software tiene errores.
+
+Despliegue
+Cuando los equipos desarrollan software, lo codifican y prueban en una copia
+diferente que no es a la que acceden los usuarios.
+
+Mantenimiento
+En la fase de mantenimiento, entre otras tareas, el equipo corrige errores.
